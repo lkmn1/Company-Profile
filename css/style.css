@@ -8,7 +8,7 @@
 }
 #hero {
   margin-bottom: 0;
-  width: 100%;
+  width: 100vw;
   height: 640px;
   padding-top: 8.5rem;
   background-image: url("../img/bg.jpg");
